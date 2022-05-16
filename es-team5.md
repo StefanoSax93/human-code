@@ -1,0 +1,31 @@
+# Comprare qualcosa su amazon
+-Vado al pc
+ -SE il pc è spento
+  -accendo il pc
+ -ALTRIMENTI proseguo
+ -controllo se il wi-fi è collegato
+  -SE è scollegato
+   -lo collego
+  -ALTRIMENTI proseguo 
+ -apro un browser
+ -mi dirigo sul sito di Amazon
+  -inserisco l'url del sito nella barra degli indirizzi e premo invio
+ -Stabilisco un budget massimo per acquistare il regalo
+ -Creo una lista dei possibili regali
+ -Inizio a ricercare gli articoli
+  -SE hanno la consegna Prime e se rientrano nel mio budget 
+   -li aggiungo alla lista dei possibili regali
+  -ALTRIMENTI 
+   -continuo la ricerca
+ -SE sono soddisfatto della ricerca
+  -Inizio a controllare la lista dei possibili regali
+  -SE in essa è contenuta la lampada che piace a Silvia
+   -acquisto la lampada
+  -ALTRIMENTI
+   -Cerco una penna stilografica
+    -SE c'è la acquisto
+    -ALTRIMENTI   
+     -cerco un buon libro classico
+      -SE c'è lo acquisto
+     -ALTRIMENTI
+      -continuo a cercare     
